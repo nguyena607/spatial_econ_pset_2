@@ -8,7 +8,6 @@ This project estimates how the 2017 immigration enforcement shock affected wages
 
 1. **Reduced-Form DiD** — Two-way fixed effects regression with an event study to verify parallel trends
 2. **CDP-Lite Model** — A dynamic spatial model with forward-looking workers that decomposes the enforcement effect into wage and fear/disutility channels, and tests for anticipation effects
-```
 
 ## Main Results
 
