@@ -1,6 +1,6 @@
 # Spatial Economics Pset 2
 
-Empirical analysis of the labor market effects of immigration enforcement using a Difference-in-Differences design and a dynamic spatial equilibrium model (CDP-Lite).
+Empirical analysis of the labor market effects of immigration enforcement using a Difference-in-Differences design and a dynamic spatial equilibrium model.
 
 ## Overview
 
